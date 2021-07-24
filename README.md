@@ -15,8 +15,6 @@
 	
     <br />
 	<br />
-	<a href="https://www.paypal.com/donate?hosted_button_id=Z37EHTDSQG7D4">💰 Support me on PayPal</a>
-    ·
 	<a href="https://dryrel.itch.io">🎮 Download Games</a>
     ·
     <a href="mailto:contact@gokdenizcetin.com">🔴 Report Bug</a>
