@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DryreL/">
-    <img src="assets/img/Banner.gif" alt="Banner" width="1250" height="125">
+    <img src="assets/img/Banner.gif" alt="Banner">
   </a>
 
   <!-- <h3 align="center">Gökdeniz Çetin</h3> -->
