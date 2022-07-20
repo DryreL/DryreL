@@ -8,7 +8,7 @@
   <!-- <h3 align="center">Gökdeniz Çetin</h3> -->
 
   <p align="center">
-    Innovative and deadline-driven Motion Graphics Designer with 3+ years of experience animating material from final illustration and UI/UX design from initial concept to polished final version.
+    Innovative and deadline-driven Motion Graphics Designer with 4+ years of experience animating material from final illustration and UI/UX design from initial concept to polished final version.
 	<br />
 	<br />
 	Founder CEO of <a href="https://tenharstudios.wordpress.com">Tenhar Studios</a> | Gökdeniz Çetin <a href="https://gokdenizcetin.com">Portfolio</a>
