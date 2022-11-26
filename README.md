@@ -8,10 +8,10 @@
   <!-- <h3 align="center">Gökdeniz Çetin</h3> -->
 
   <p align="center">
-    Innovative and deadline-driven Motion Graphics Designer with 4+ years of experience animating material from final illustration and UI/UX design from initial concept to polished final version.
+    Innovative and deadline-driven Game Developer with 4+ years of experience within UI/UX design that covers  design from initial concept to polished final version and animating graphics, functional menus.
 	<br />
 	<br />
-	Founder CEO of <a href="https://tenharstudios.wordpress.com">Tenhar Studios</a> | Gökdeniz Çetin <a href="https://gokdenizcetin.com">Portfolio</a>
+	Gökdeniz Çetin <a href="https://gokdenizcetin.com">Personal Website</a>
 	<br />
 	<br />
 	<a href="https://www.paypal.com/donate?hosted_button_id=Z37EHTDSQG7D4">💰 Support me on PayPal</a>
