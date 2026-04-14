@@ -1,14 +1,16 @@
 <!-- PROFILE LOGO -->
 <br />
+<!---
 <p align="center">
   <a href="https://github.com/DryreL/">
     <img src="assets/img/Banner.gif" alt="Banner">
   </a>
+--->
 
   <!-- <h3 align="center">Gökdeniz Çetin</h3> -->
 
   <p align="center">
-    Innovative and deadline-driven Game Developer with 4+ years of experience within UI/UX design that covers  design from initial concept to polished final version and animating graphics, functional menus.
+    Innovative and deadline-driven Game Developer with 5+ years of experience within UI/UX design that covers design from initial concept to polished final version and animating graphics, functional menus.
 	<br />
 	<br />
 	Gökdeniz Çetin <a href="https://gokdenizcetin.com">Personal Website</a>
@@ -23,8 +25,7 @@
 	<br />
 
 - 👦🏻 Hi, I’m <a href="#">@DryreL</a>
-- 💻 I’m currently developing games
-- 💜 I’m looking to collaborate with talented artists
+- 💻 I’m currently developing games and creating advanced UIs
 - ⭐️ Social: <a href="https://steamcommunity.com/id/DryreL/">Steam</a> - <a href="https://youtube.com/c/DryreL">YouTube</a> - <a href="https://twitch.tv/DryreL">Twitch</a> - <a href="https://fiverr/DryreL/">Fiverr</a> - <a href="https://behance.net/DryreL">Behance</a> - <a href="https://deviantart.com/dryrel">DeviantArt</a>
 - 📧 E-Mail: contact@gokdenizcetin.com
 
